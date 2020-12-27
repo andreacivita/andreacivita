@@ -2,9 +2,10 @@
 
 I am Andrea Civita, Lead Web Developer at [Spobble](https://spobble.com). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-andreacivita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreacivita/)](https://www.linkedin.com/in/andreacivita/)
-[![Instagram Badge](https://img.shields.io/badge/-andrea.civita-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/andrea.civita/)](https://instagram.com/andrea.civita)
-[![Gmail Badge](https://img.shields.io/badge/-andreacivita994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreacivita994@gmail.com)](mailto:andreacivita994@gmail.com)
+<a href="https://www.linkedin.com/in/andreacivita/" target="_blank"><img alt="Andrea Civita Linkedin" src="https://img.shields.io/badge/-andreacivita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreacivita/"/></a>
+<a href="https://instagram.com/andrea.civita" target="_blank"><img src="https://img.shields.io/badge/-andrea.civita-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/andrea.civita/" alt="Andrea Civita Instagram" /></a>
+<a href="mailto:andreacivita994@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-andreacivita994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreacivita994@gmail.com" alt="Andrea Civita mail" /></a>
+
 
 ## Tech Skills:
 
